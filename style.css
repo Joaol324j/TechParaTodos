@@ -627,6 +627,7 @@ footer {
     .hero-text, .what-about-text {
         padding-right: 0;
         margin-bottom: var(--spacing-lg);
+        margin-top: 25px;
     }
     .hero-image, .what-about-image {
         text-align: center;
